@@ -26,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amr-khalil/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/amr-khalil/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/amr-khalil/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/amr-khalil/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/amr-khalil/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
