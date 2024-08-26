@@ -8,10 +8,12 @@ class Solution:
         slow, fast = head, head
         max_sum = 0
         
+        # Get middle of the linked list.
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
 
+        # Reverse second half of the linked list.
         prev = None
         curr = slow
         while curr:
@@ -23,7 +25,7 @@ class Solution:
             max_sum = max(max_sum, curr_sum)
             prev = prev.next
             start = start.next
-            
+
         return max_sum
 
 
