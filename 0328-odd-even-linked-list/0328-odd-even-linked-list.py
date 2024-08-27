@@ -16,7 +16,6 @@ class Solution:
             # Change the pointers for odd list
             odd.next = odd.next.next
             odd = odd.next
-
             # Change the pointers for even list
             even.next = even.next.next
             even = even.next
