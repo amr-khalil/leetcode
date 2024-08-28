@@ -31,13 +31,4 @@ class Solution:
             return copy
         
         return dfs(node)
-
-            
-        
-        
-        return dfs(node)
-
-        
-        
-
         
