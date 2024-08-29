@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/amr-khalil/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/amr-khalil/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/amr-khalil/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2035-count-sub-islands](https://github.com/amr-khalil/leetcode/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -61,12 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amr-khalil/leetcode/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amr-khalil/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/amr-khalil/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2035-count-sub-islands](https://github.com/amr-khalil/leetcode/tree/master/2035-count-sub-islands) |
 ## Array
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/amr-khalil/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amr-khalil/leetcode/tree/master/0200-number-of-islands) |
 | [0560-subarray-sum-equals-k](https://github.com/amr-khalil/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2035-count-sub-islands](https://github.com/amr-khalil/leetcode/tree/master/2035-count-sub-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,11 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/amr-khalil/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amr-khalil/leetcode/tree/master/0200-number-of-islands) |
+| [2035-count-sub-islands](https://github.com/amr-khalil/leetcode/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/amr-khalil/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amr-khalil/leetcode/tree/master/0200-number-of-islands) |
+| [2035-count-sub-islands](https://github.com/amr-khalil/leetcode/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
