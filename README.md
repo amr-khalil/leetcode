@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/amr-khalil/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/amr-khalil/leetcode/tree/master/0088-merge-sorted-array) |
 | [0130-surrounded-regions](https://github.com/amr-khalil/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amr-khalil/leetcode/tree/master/0200-number-of-islands) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/amr-khalil/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/amr-khalil/leetcode/tree/master/0088-merge-sorted-array) |
 | [0908-middle-of-the-linked-list](https://github.com/amr-khalil/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/amr-khalil/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
