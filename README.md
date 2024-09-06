@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/amr-khalil/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/amr-khalil/leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/amr-khalil/leetcode/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/amr-khalil/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/amr-khalil/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/amr-khalil/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/amr-khalil/leetcode/tree/master/0221-maximal-square) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/amr-khalil/leetcode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/amr-khalil/leetcode/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/amr-khalil/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/amr-khalil/leetcode/tree/master/0740-delete-and-earn) |
 ## Prefix Sum
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/amr-khalil/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/amr-khalil/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/amr-khalil/leetcode/tree/master/0120-triangle) |
+| [0139-word-break](https://github.com/amr-khalil/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/amr-khalil/leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/amr-khalil/leetcode/tree/master/0221-maximal-square) |
 | [0740-delete-and-earn](https://github.com/amr-khalil/leetcode/tree/master/0740-delete-and-earn) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amr-khalil/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/amr-khalil/leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/amr-khalil/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/amr-khalil/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Combinatorics
@@ -190,4 +194,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amr-khalil/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/amr-khalil/leetcode/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/amr-khalil/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
