@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amr-khalil/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amr-khalil/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amr-khalil/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/amr-khalil/leetcode/tree/master/0088-merge-sorted-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amr-khalil/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/amr-khalil/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/amr-khalil/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/amr-khalil/leetcode/tree/master/0064-minimum-path-sum) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/amr-khalil/leetcode/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/amr-khalil/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
