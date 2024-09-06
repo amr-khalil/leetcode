@@ -7,7 +7,6 @@ class Solution:
         # All substrings of length 1 are palindromes
         for i in range(n):
             dp[i][i] = True
-        
         # Check for substrings of length 2
         for i in range(n - 1):
             if s[i] == s[i + 1]:
@@ -15,13 +14,12 @@ class Solution:
                 ans = [i, i + 1]
         
         # Check for substrings longer than 2
-        for diff in range(2, n ):
+        for diff in range(2, n):
             for i in range(n - diff):
                 j = i + diff
                 # Check if s[i:j+1] is a palindrome
                 if s[i] == s[j] and dp[i + 1][j - 1]:
                     dp[i][j] = True
                     ans = [i, j]
-        
         i, j = ans
         return s[i : j+1]
