@@ -1,25 +1,28 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
+        # dp[i][j] = (s[i] == s[j]) & (dp[i+1][j-1]) = True
+        # Base Case: one character is always palindrom, dp[i][i] =  True
         n = len(s)
         dp = [[False] * n for _ in range(n)]
         ans = [0, 0]
 
-        # All substrings of length 1 are palindromes
+        # Base case: one char
         for i in range(n):
             dp[i][i] = True
-        # Check for substrings of length 2
-        for i in range(n - 1):
-            if s[i] == s[i + 1]:
-                dp[i][i + 1] = True
-                ans = [i, i + 1]
-        
-        # Check for substrings longer than 2
-        for diff in range(2, n):
-            for i in range(n - diff):
-                j = i + diff
-                # Check if s[i:j+1] is a palindrome
-                if s[i] == s[j] and dp[i + 1][j - 1]:
+
+        # Two chars
+        for i in range(n-1):
+            if s[i] == s[i+1]:
+                dp[i][i+1] = True
+                ans = [i, i+1]
+
+        # More than two chars
+        for length in range(2, n):
+            for i in range(n - length):
+                j = i + length
+                if (s[i] == s[j]) and (dp[i+1][j-1]):
                     dp[i][j] = True
                     ans = [i, j]
-        i, j = ans
-        return s[i : j+1]
+        
+        start, end = ans
+        return s[start : end+1]
