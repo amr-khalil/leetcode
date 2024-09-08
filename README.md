@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/amr-khalil/leetcode/tree/master/1105-uncrossed-lines) |
 | [1236-n-th-tribonacci-number](https://github.com/amr-khalil/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/amr-khalil/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amr-khalil/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Memoization
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amr-khalil/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/amr-khalil/leetcode/tree/master/0139-word-break) |
 | [1250-longest-common-subsequence](https://github.com/amr-khalil/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amr-khalil/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Trie
 |  |
 | ------- |
