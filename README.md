@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/amr-khalil/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/amr-khalil/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/amr-khalil/leetcode/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/amr-khalil/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0560-subarray-sum-equals-k](https://github.com/amr-khalil/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/amr-khalil/leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/amr-khalil/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/amr-khalil/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/amr-khalil/leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/amr-khalil/leetcode/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/amr-khalil/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/amr-khalil/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amr-khalil/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/amr-khalil/leetcode/tree/master/0740-delete-and-earn) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/amr-khalil/leetcode/tree/master/0139-word-break) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/amr-khalil/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
