@@ -1,17 +1,14 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        # if price[i] > price[i - 1]: dp[i] = dp[i - 1] + (price[i] - price[i - 1])
-        # else: dp[i] = dp[i - 1]
-        # Base case: dp[0] = 0, no profit
-        
-        n = len(prices)
-        dp = [0] * n
+        # transactions = inf
 
-        for i in range(1, n):
-            profit = prices[i] - prices[i - 1]
-            if profit > 0:
-                dp[i] = dp[i - 1] + profit
-            else:
-                dp[i] = dp[i - 1]
-                
-        return dp[-1]
+        sell = 0
+        buy = float("-inf")
+
+        for price in prices:
+            # Sell the stock or keep the profit
+            sell = max(sell, buy + price)
+            # Buy a new stock or keep the old one
+            buy =  max(buy, sell - price)
+
+        return sell
