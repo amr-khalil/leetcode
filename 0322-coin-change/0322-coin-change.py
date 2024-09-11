@@ -3,7 +3,7 @@ class Solution:
         """
         fewest number of coins 
         dp[i] = min(dp[i], dp[i - coin] + 1)
-        Base case: dp[0] = 0
+        Base case: dp[0] = 0, To make amount 0, we need 0 coins.
 
         Example:
         coins = [5]. amount = 10 then:
