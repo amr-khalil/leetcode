@@ -1,11 +1,14 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        max_profit = 0
-        min_price = float('inf')
+        # transactions = 1
+        
+        sell = 0
+        buy = float("-inf")
 
         for price in prices:
-            min_price = min(min_price, price)
-            profit = price - min_price
-            max_profit = max(max_profit, profit)
+            # Either keep the previous sell or sell today
+            sell = max(sell, buy + price)
+            # Either keep the previous buy or buy today
+            buy = max(buy, -price)
 
-        return max_profit
+        return sell
