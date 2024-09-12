@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amr-khalil/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/amr-khalil/leetcode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/amr-khalil/leetcode/tree/master/0377-combination-sum-iv) |
+| [0474-ones-and-zeroes](https://github.com/amr-khalil/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/amr-khalil/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/amr-khalil/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amr-khalil/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amr-khalil/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/amr-khalil/leetcode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/amr-khalil/leetcode/tree/master/0377-combination-sum-iv) |
+| [0474-ones-and-zeroes](https://github.com/amr-khalil/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/amr-khalil/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/amr-khalil/leetcode/tree/master/0518-coin-change-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amr-khalil/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/amr-khalil/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/amr-khalil/leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/amr-khalil/leetcode/tree/master/0139-word-break) |
+| [0474-ones-and-zeroes](https://github.com/amr-khalil/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/amr-khalil/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amr-khalil/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/amr-khalil/leetcode/tree/master/1250-longest-common-subsequence) |
