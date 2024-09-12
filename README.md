@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amr-khalil/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/amr-khalil/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/amr-khalil/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/amr-khalil/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amr-khalil/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amr-khalil/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/amr-khalil/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/amr-khalil/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/amr-khalil/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amr-khalil/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/amr-khalil/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/amr-khalil/leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/amr-khalil/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/amr-khalil/leetcode/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/amr-khalil/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/amr-khalil/leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/amr-khalil/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/amr-khalil/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/amr-khalil/leetcode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/amr-khalil/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/amr-khalil/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/amr-khalil/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/amr-khalil/leetcode/tree/master/0120-triangle) |
@@ -251,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amr-khalil/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amr-khalil/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/amr-khalil/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
