@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/amr-khalil/leetcode/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/amr-khalil/leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/amr-khalil/leetcode/tree/master/1013-fibonacci-number) |
 ## Union Find
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amr-khalil/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/amr-khalil/leetcode/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/amr-khalil/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/amr-khalil/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/amr-khalil/leetcode/tree/master/0064-minimum-path-sum) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amr-khalil/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/amr-khalil/leetcode/tree/master/0010-regular-expression-matching) |
 | [0072-edit-distance](https://github.com/amr-khalil/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/amr-khalil/leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/amr-khalil/leetcode/tree/master/0139-word-break) |
