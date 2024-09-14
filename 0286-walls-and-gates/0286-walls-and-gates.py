@@ -13,21 +13,23 @@ class Solution:
                     queue.append((r, c))
 
         directions = [(0, 1), (1, 0), (0, -1), (-1, 0)]
-        # loop over the queue
+        
+        # Start BFS with an initial distance of 1 (the distance from the gates)
         dst = 1
         while queue:
             level_size = len(queue)
-            # loop over queue level
+            # For each level in the BFS, process all rooms currently in the queue
             for _ in range(level_size):
                 r, c = queue.popleft()
                 # loop over the directions, to check the neighbours
                 for x, y in directions:
                     nx = r + x
                     ny = c + y
+                    # If the neighboring room is valid and has not been updated (still 2147483647)
                     if 0 <= nx < rows and 0 <= ny < cols and rooms[nx][ny] == 2147483647:
                         rooms[nx][ny] = dst # add the distance to the room
                         queue.append((nx, ny)) # add the same room into the queue
             if queue:
-                print(queue)
+                # Increment the distance for the next level of BFS
                 dst += 1
 
