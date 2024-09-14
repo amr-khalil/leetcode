@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/amr-khalil/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/amr-khalil/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/amr-khalil/leetcode/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/amr-khalil/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/amr-khalil/leetcode/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amr-khalil/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/amr-khalil/leetcode/tree/master/0904-leaf-similar-trees) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amr-khalil/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/amr-khalil/leetcode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/amr-khalil/leetcode/tree/master/0377-combination-sum-iv) |
+| [0419-battleships-in-a-board](https://github.com/amr-khalil/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0474-ones-and-zeroes](https://github.com/amr-khalil/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/amr-khalil/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/amr-khalil/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amr-khalil/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/amr-khalil/leetcode/tree/master/0221-maximal-square) |
 | [0286-walls-and-gates](https://github.com/amr-khalil/leetcode/tree/master/0286-walls-and-gates) |
+| [0419-battleships-in-a-board](https://github.com/amr-khalil/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0967-minimum-falling-path-sum](https://github.com/amr-khalil/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/amr-khalil/leetcode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/amr-khalil/leetcode/tree/master/2035-count-sub-islands) |
