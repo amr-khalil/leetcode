@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/amr-khalil/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/amr-khalil/leetcode/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amr-khalil/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1036-rotting-oranges](https://github.com/amr-khalil/leetcode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/amr-khalil/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/amr-khalil/leetcode/tree/master/2035-count-sub-islands) |
 ## Array
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/amr-khalil/leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/amr-khalil/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/amr-khalil/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/amr-khalil/leetcode/tree/master/1036-rotting-oranges) |
 | [1105-uncrossed-lines](https://github.com/amr-khalil/leetcode/tree/master/1105-uncrossed-lines) |
 | [2035-count-sub-islands](https://github.com/amr-khalil/leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amr-khalil/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amr-khalil/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/amr-khalil/leetcode/tree/master/0221-maximal-square) |
 | [0967-minimum-falling-path-sum](https://github.com/amr-khalil/leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/amr-khalil/leetcode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/amr-khalil/leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amr-khalil/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Graph
