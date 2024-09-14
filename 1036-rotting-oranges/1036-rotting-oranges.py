@@ -36,5 +36,4 @@ class Solution:
             if queue:
                 time += 1
 
-        print(queue, fresh_oranges)
         return time if fresh_oranges == 0 else -1
