@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/amr-khalil/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/amr-khalil/leetcode/tree/master/1036-rotting-oranges) |
 | [1105-uncrossed-lines](https://github.com/amr-khalil/leetcode/tree/master/1105-uncrossed-lines) |
+| [1127-last-stone-weight](https://github.com/amr-khalil/leetcode/tree/master/1127-last-stone-weight) |
 | [2035-count-sub-islands](https://github.com/amr-khalil/leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amr-khalil/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -288,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/amr-khalil/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/amr-khalil/leetcode/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
