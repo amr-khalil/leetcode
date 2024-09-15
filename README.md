@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0286-walls-and-gates](https://github.com/amr-khalil/leetcode/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/amr-khalil/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amr-khalil/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/amr-khalil/leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/amr-khalil/leetcode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/amr-khalil/leetcode/tree/master/0377-combination-sum-iv) |
 | [0419-battleships-in-a-board](https://github.com/amr-khalil/leetcode/tree/master/0419-battleships-in-a-board) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/amr-khalil/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/amr-khalil/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amr-khalil/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0312-burst-balloons](https://github.com/amr-khalil/leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/amr-khalil/leetcode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/amr-khalil/leetcode/tree/master/0377-combination-sum-iv) |
 | [0474-ones-and-zeroes](https://github.com/amr-khalil/leetcode/tree/master/0474-ones-and-zeroes) |
