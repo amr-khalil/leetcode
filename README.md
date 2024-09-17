@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/amr-khalil/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/amr-khalil/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/amr-khalil/leetcode/tree/master/0740-delete-and-earn) |
+| [1873-longest-nice-substring](https://github.com/amr-khalil/leetcode/tree/master/1873-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/amr-khalil/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/amr-khalil/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amr-khalil/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1873-longest-nice-substring](https://github.com/amr-khalil/leetcode/tree/master/1873-longest-nice-substring) |
 ## Trie
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/amr-khalil/leetcode/tree/master/0136-single-number) |
+| [1873-longest-nice-substring](https://github.com/amr-khalil/leetcode/tree/master/1873-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -313,4 +316,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-diet-plan-performance](https://github.com/amr-khalil/leetcode/tree/master/1280-diet-plan-performance) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/amr-khalil/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/amr-khalil/leetcode/tree/master/1755-defuse-the-bomb) |
+| [1873-longest-nice-substring](https://github.com/amr-khalil/leetcode/tree/master/1873-longest-nice-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/amr-khalil/leetcode/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
