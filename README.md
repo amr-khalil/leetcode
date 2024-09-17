@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/amr-khalil/leetcode/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/amr-khalil/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/amr-khalil/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/amr-khalil/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/amr-khalil/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amr-khalil/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/amr-khalil/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/amr-khalil/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amr-khalil/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Trie
 |  |
@@ -308,4 +310,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/amr-khalil/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/amr-khalil/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1280-diet-plan-performance](https://github.com/amr-khalil/leetcode/tree/master/1280-diet-plan-performance) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/amr-khalil/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
