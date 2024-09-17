@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/amr-khalil/leetcode/tree/master/1036-rotting-oranges) |
 | [1105-uncrossed-lines](https://github.com/amr-khalil/leetcode/tree/master/1105-uncrossed-lines) |
 | [1127-last-stone-weight](https://github.com/amr-khalil/leetcode/tree/master/1127-last-stone-weight) |
+| [1280-diet-plan-performance](https://github.com/amr-khalil/leetcode/tree/master/1280-diet-plan-performance) |
 | [2035-count-sub-islands](https://github.com/amr-khalil/leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amr-khalil/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -306,4 +307,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/amr-khalil/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/amr-khalil/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1280-diet-plan-performance](https://github.com/amr-khalil/leetcode/tree/master/1280-diet-plan-performance) |
 <!---LeetCode Topics End-->
