@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amr-khalil/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1873-longest-nice-substring](https://github.com/amr-khalil/leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/amr-khalil/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/amr-khalil/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Trie
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/amr-khalil/leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/amr-khalil/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/amr-khalil/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/amr-khalil/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Divide and Conquer
 |  |
 | ------- |
