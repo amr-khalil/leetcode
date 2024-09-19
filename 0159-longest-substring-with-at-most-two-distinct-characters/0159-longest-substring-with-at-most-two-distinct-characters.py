@@ -11,8 +11,8 @@ class Solution:
             # Filter unique character more than 2
             while len(set(substring)) > 2:
                 l += 1
-                substring = s[l : r]
+                substring = substring[l : r]
 
-            maxLength = max(maxLength, len(substring))
+            maxLength = max(maxLength, r - l)
         
         return maxLength
