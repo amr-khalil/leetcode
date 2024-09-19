@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/amr-khalil/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/amr-khalil/leetcode/tree/master/0139-word-break) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/amr-khalil/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0219-contains-duplicate-ii](https://github.com/amr-khalil/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/amr-khalil/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/amr-khalil/leetcode/tree/master/0740-delete-and-earn) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/amr-khalil/leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/amr-khalil/leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/amr-khalil/leetcode/tree/master/0139-word-break) |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/amr-khalil/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0474-ones-and-zeroes](https://github.com/amr-khalil/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/amr-khalil/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amr-khalil/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/amr-khalil/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0219-contains-duplicate-ii](https://github.com/amr-khalil/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/amr-khalil/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1280-diet-plan-performance](https://github.com/amr-khalil/leetcode/tree/master/1280-diet-plan-performance) |
