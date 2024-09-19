@@ -5,7 +5,7 @@ class Solution:
         
         for r in range(1, len(s)+1):
             substring = s[l:r]
-            while len(set(substring)) > 2 and l < r:
+            while len(set(substring)) > 2:
                 l += 1
                 substring = s[l:r]
 
