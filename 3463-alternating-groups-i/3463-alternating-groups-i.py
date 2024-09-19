@@ -8,7 +8,7 @@ class Solution:
         for r in range(k, n + k - 1):
             index = r % n
             winList.append(colors[index])
-            winList = winList[1:]
+            winList.pop(0)
             count += 1 if winList in [[1, 0, 1], [0, 1, 0]] else 0 
 
         return count
