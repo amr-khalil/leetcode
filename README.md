@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/amr-khalil/leetcode/tree/master/1105-uncrossed-lines) |
 | [1127-last-stone-weight](https://github.com/amr-khalil/leetcode/tree/master/1127-last-stone-weight) |
 | [1280-diet-plan-performance](https://github.com/amr-khalil/leetcode/tree/master/1280-diet-plan-performance) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/amr-khalil/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amr-khalil/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/amr-khalil/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2035-count-sub-islands](https://github.com/amr-khalil/leetcode/tree/master/2035-count-sub-islands) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/amr-khalil/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1280-diet-plan-performance](https://github.com/amr-khalil/leetcode/tree/master/1280-diet-plan-performance) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/amr-khalil/leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/amr-khalil/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amr-khalil/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/amr-khalil/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/amr-khalil/leetcode/tree/master/1873-longest-nice-substring) |
