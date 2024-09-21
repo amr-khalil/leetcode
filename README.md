@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/amr-khalil/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/amr-khalil/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/amr-khalil/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amr-khalil/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/amr-khalil/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/amr-khalil/leetcode/tree/master/0740-delete-and-earn) |
 | [0940-fruit-into-baskets](https://github.com/amr-khalil/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/amr-khalil/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/amr-khalil/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/amr-khalil/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amr-khalil/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/amr-khalil/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/amr-khalil/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/amr-khalil/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/amr-khalil/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/amr-khalil/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/amr-khalil/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amr-khalil/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/amr-khalil/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/amr-khalil/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1280-diet-plan-performance](https://github.com/amr-khalil/leetcode/tree/master/1280-diet-plan-performance) |
