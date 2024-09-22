@@ -1,18 +1,25 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
+        # Rolling hash
         n = len(s)
         k = len(p)
-        win_str = s[:k]
-        p = sorted(p)
-        ans = [0] if sorted(win_str) == p else [] 
+        ans = []
 
-        for r in range(k, n):
-            win_str += s[r]
-            win_str = win_str[1:]
+        if k > n:
+            return ans
 
-            if sorted(win_str) == p:
+        win_count = defaultdict(int)
+        p_count = Counter(p)
+    
+        for r in range(n):
+            win_count[s[r]] += 1
+            if r >= k:
+                if win_count[s[r - k]] == 1:
+                    del win_count[s[r - k]]
+                else:
+                    win_count[s[r - k]] -= 1
+
+            if p_count == win_count:
                 ans.append(r - k + 1)
 
         return ans
-
-        
