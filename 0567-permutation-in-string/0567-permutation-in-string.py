@@ -3,7 +3,7 @@ class Solution:
         n = len(s2)
         k = len(s1)
 
-         # Base case: If s1 is longer than s2, no permutation is possible
+        # Base case: If s1 is longer than s2, no permutation is possible
         if k > n:
             return False
         
