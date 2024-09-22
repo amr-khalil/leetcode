@@ -2,6 +2,11 @@ class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
         n = len(s2)
         k = len(s1)
+
+         # Base case: If s1 is longer than s2, no permutation is possible
+        if k > n:
+            return False
+        
         win_count = defaultdict(int)
         s1_count = Counter(s1)
         for r in range(n):
