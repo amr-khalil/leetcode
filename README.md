@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/amr-khalil/leetcode/tree/master/0139-word-break) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/amr-khalil/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0219-contains-duplicate-ii](https://github.com/amr-khalil/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/amr-khalil/leetcode/tree/master/0242-valid-anagram) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/amr-khalil/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/amr-khalil/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amr-khalil/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/amr-khalil/leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/amr-khalil/leetcode/tree/master/0242-valid-anagram) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/amr-khalil/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
 |  |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/amr-khalil/leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/amr-khalil/leetcode/tree/master/0139-word-break) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/amr-khalil/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0242-valid-anagram](https://github.com/amr-khalil/leetcode/tree/master/0242-valid-anagram) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/amr-khalil/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/amr-khalil/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amr-khalil/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
