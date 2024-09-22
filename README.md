@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amr-khalil/leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/amr-khalil/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/amr-khalil/leetcode/tree/master/0221-maximal-square) |
+| [0239-sliding-window-maximum](https://github.com/amr-khalil/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0256-paint-house](https://github.com/amr-khalil/leetcode/tree/master/0256-paint-house) |
 | [0286-walls-and-gates](https://github.com/amr-khalil/leetcode/tree/master/0286-walls-and-gates) |
 | [0300-longest-increasing-subsequence](https://github.com/amr-khalil/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/amr-khalil/leetcode/tree/master/0239-sliding-window-maximum) |
 | [1127-last-stone-weight](https://github.com/amr-khalil/leetcode/tree/master/1127-last-stone-weight) |
 ## Bit Manipulation
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/amr-khalil/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0219-contains-duplicate-ii](https://github.com/amr-khalil/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/amr-khalil/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/amr-khalil/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/amr-khalil/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amr-khalil/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -373,4 +376,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/amr-khalil/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/amr-khalil/leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/amr-khalil/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
