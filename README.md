@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/amr-khalil/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/amr-khalil/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amr-khalil/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/amr-khalil/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/amr-khalil/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/amr-khalil/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/amr-khalil/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2327-largest-number-after-digit-swaps-by-parity](https://github.com/amr-khalil/leetcode/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
