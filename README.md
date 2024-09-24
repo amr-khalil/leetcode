@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/amr-khalil/leetcode/tree/master/1127-last-stone-weight) |
 | [1280-diet-plan-performance](https://github.com/amr-khalil/leetcode/tree/master/1280-diet-plan-performance) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/amr-khalil/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/amr-khalil/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/amr-khalil/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/amr-khalil/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2035-count-sub-islands](https://github.com/amr-khalil/leetcode/tree/master/2035-count-sub-islands) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/amr-khalil/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0967-minimum-falling-path-sum](https://github.com/amr-khalil/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/amr-khalil/leetcode/tree/master/1036-rotting-oranges) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/amr-khalil/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2035-count-sub-islands](https://github.com/amr-khalil/leetcode/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amr-khalil/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Graph
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/amr-khalil/leetcode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/amr-khalil/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/amr-khalil/leetcode/tree/master/1074-high-five) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/amr-khalil/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/amr-khalil/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
 |  |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/amr-khalil/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/amr-khalil/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -363,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/amr-khalil/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1074-high-five](https://github.com/amr-khalil/leetcode/tree/master/1074-high-five) |
 | [1127-last-stone-weight](https://github.com/amr-khalil/leetcode/tree/master/1127-last-stone-weight) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/amr-khalil/leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
