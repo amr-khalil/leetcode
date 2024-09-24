@@ -1,20 +1,13 @@
 class Solution:
     def lastStoneWeight(self, stones: List[int]) -> int:
-        # MaxHeap: Python dosn't have max heap, so we make all the stones negative
-        stones = [-s for s in stones]
-        # hepify all the stones
-        heapq.heapify(stones)
+        max_heap = [-stone for stone in stones]
+        heapify(max_heap)
 
-        # at least two stones
-        while len(stones) > 1:
-            stone1 = heapq.heappop(stones)
-            stone2 = heapq.heappop(stones)
+        while len(max_heap) > 1:
+            first = heappop(max_heap)
+            second = heappop(max_heap)
 
-            if stone1 != stone2:
-                heapq.heappush(stones, stone1 - stone2)
-
-        # Check if there is a stone left to return. Convert it back
-        # to positive.
-        return -heapq.heappop(stones) if stones else 0
-
-        
+            if first != second:
+                heappush(max_heap, first - second)
+                
+        return -max_heap[0] if max_heap else 0
