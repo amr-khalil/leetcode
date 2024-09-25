@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/amr-khalil/leetcode/tree/master/0377-combination-sum-iv) |
 | [0419-battleships-in-a-board](https://github.com/amr-khalil/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0474-ones-and-zeroes](https://github.com/amr-khalil/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0502-ipo](https://github.com/amr-khalil/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/amr-khalil/leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/amr-khalil/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/amr-khalil/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/amr-khalil/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/amr-khalil/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/amr-khalil/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/amr-khalil/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/amr-khalil/leetcode/tree/master/0506-relative-ranks) |
 | [0778-reorganize-string](https://github.com/amr-khalil/leetcode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/amr-khalil/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amr-khalil/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0502-ipo](https://github.com/amr-khalil/leetcode/tree/master/0502-ipo) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amr-khalil/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-reorganize-string](https://github.com/amr-khalil/leetcode/tree/master/0778-reorganize-string) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/amr-khalil/leetcode/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/amr-khalil/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/amr-khalil/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/amr-khalil/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/amr-khalil/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/amr-khalil/leetcode/tree/master/0506-relative-ranks) |
 | [0778-reorganize-string](https://github.com/amr-khalil/leetcode/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amr-khalil/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
