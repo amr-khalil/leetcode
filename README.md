@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/amr-khalil/leetcode/tree/master/0377-combination-sum-iv) |
 | [0419-battleships-in-a-board](https://github.com/amr-khalil/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0474-ones-and-zeroes](https://github.com/amr-khalil/leetcode/tree/master/0474-ones-and-zeroes) |
+| [0480-sliding-window-median](https://github.com/amr-khalil/leetcode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/amr-khalil/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/amr-khalil/leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/amr-khalil/leetcode/tree/master/0518-coin-change-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/amr-khalil/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/amr-khalil/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amr-khalil/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/amr-khalil/leetcode/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/amr-khalil/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/amr-khalil/leetcode/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/amr-khalil/leetcode/tree/master/0740-delete-and-earn) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/amr-khalil/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/amr-khalil/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/amr-khalil/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0480-sliding-window-median](https://github.com/amr-khalil/leetcode/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/amr-khalil/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/amr-khalil/leetcode/tree/master/0506-relative-ranks) |
 | [0778-reorganize-string](https://github.com/amr-khalil/leetcode/tree/master/0778-reorganize-string) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/amr-khalil/leetcode/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/amr-khalil/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amr-khalil/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/amr-khalil/leetcode/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/amr-khalil/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/amr-khalil/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/amr-khalil/leetcode/tree/master/0940-fruit-into-baskets) |
