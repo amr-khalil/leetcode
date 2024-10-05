@@ -7,13 +7,14 @@
 class Solution:
     def preorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         ans = []
-        stack = []
-        current = root
-        while current or stack:
-            while current:
-                ans.append(current.val)
-                stack.append(current)
-                current = current.left
-            current = stack.pop()
-            current = current.right
+        stack = [root]
+        while stack:
+            node = stack.pop()
+            if node:
+                ans.append(node.val)
+                # To ensure that the left child is processed before the right child.
+                if node.right:
+                    stack.append(node.right)
+                if node.left:
+                    stack.append(node.left)
         return ans
