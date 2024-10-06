@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-task-scheduler-ii](https://github.com/amr-khalil/leetcode/tree/master/2483-task-scheduler-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amr-khalil/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/amr-khalil/leetcode/tree/master/2751-sliding-subarray-beauty) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amr-khalil/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3463-alternating-groups-i](https://github.com/amr-khalil/leetcode/tree/master/3463-alternating-groups-i) |
 ## Hash Table
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-task-scheduler-ii](https://github.com/amr-khalil/leetcode/tree/master/2483-task-scheduler-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amr-khalil/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/amr-khalil/leetcode/tree/master/2751-sliding-subarray-beauty) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amr-khalil/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/amr-khalil/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amr-khalil/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/amr-khalil/leetcode/tree/master/2751-sliding-subarray-beauty) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amr-khalil/leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3463-alternating-groups-i](https://github.com/amr-khalil/leetcode/tree/master/3463-alternating-groups-i) |
 ## Divide and Conquer
 |  |
