@@ -1,6 +1,6 @@
 """
 Problem: Permutations II (with duplicates)
-Given a collection of numbers nums that may contain duplicates, return all unique permutations.
+Given a collection of numbers nums that may contain duplicates, return all unique permutations.
 Example:
 Input: nums = [1, 1, 2]
 Output: [[1, 1, 2], [1, 2, 1], [2, 1, 1]]
